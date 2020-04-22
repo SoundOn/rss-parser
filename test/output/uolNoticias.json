@@ -116,6 +116,9 @@
     "description": "�ltimas Not�cias",
     "link": "http://noticias.uol.com.br/",
     "language": "",
-    "copyright": ""
+    "copyright": "",
+    "links": [
+      "http://noticias.uol.com.br/"
+    ]
   }
 }

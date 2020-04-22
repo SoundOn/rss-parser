@@ -49,6 +49,9 @@
     "language": "en-gb",
     "copyright": "Copyright 2002, Oreilly and Associates.",
     "lastBuildDate": "03 Apr 02 1500 GMT",
-    "rating": "5"
+    "rating": "5",
+    "links": [
+      "http://www.oreilly.com/example/index.html"
+    ]
   }
 }

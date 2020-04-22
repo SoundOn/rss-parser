@@ -16805,6 +16805,9 @@
     "link": "https://www.giantbomb.com",
     "language": "en-us",
     "copyright": "2008-2019 CBS Interactive",
+    "links": [
+      "https://www.giantbomb.com"
+    ],
     "itunes": {
       "owner": {
         "name": "Giant Bomb",

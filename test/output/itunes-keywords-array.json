@@ -35,6 +35,9 @@
     "link": "https://www.swr.de/swr2/programm/SWR2-Wissen-Impuls-Podcast,swr2-impuls-podcast-100.html",
     "language": "de",
     "copyright": "Copyright © Südwestrundfunk",
+    "links": [
+      "https://www.swr.de/swr2/programm/SWR2-Wissen-Impuls-Podcast,swr2-impuls-podcast-100.html"
+    ],
     "itunes": {
       "owner": {
         "name": "Südwestrundfunk",

@@ -763,6 +763,9 @@
     ],
     "title": "Science twis",
     "description": "Science RSS feed -- recent twis articles",
-    "link": "http://science.sciencemag.org"
+    "link": "http://science.sciencemag.org",
+    "links": [
+      "http://science.sciencemag.org"
+    ]
   }
 }

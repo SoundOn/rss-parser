@@ -121,6 +121,9 @@
     "description": "Die 10 letzten News\n",
     "pubDate": "Mon, 07 Jan 2019 18:12:17 +0100",
     "link": "http://www.transfermarkt.de/rss/news",
-    "language": "de-de"
+    "language": "de-de",
+    "links": [
+      "http://www.transfermarkt.de/rss/news"
+    ]
   }
 }

@@ -844,6 +844,21 @@
     ],
     "totalViews": "2131244",
     "link": "https://www.youtube.com/channel/UCBcRF18a7Qf58cCRy5xuWwQ",
+    "links": [
+      {
+        "$": {
+          "rel": "self",
+          "href": "http://www.youtube.com/feeds/videos.xml?channel_id=UCBcRF18a7Qf58cCRy5xuWwQ"
+        }
+      },
+      {
+        "$": {
+          "rel": "alternate",
+          "href": "https://www.youtube.com/channel/UCBcRF18a7Qf58cCRy5xuWwQ"
+        }
+      }
+    ],
+    "hub": "http://www.youtube.com/feeds/videos.xml?channel_id=UCBcRF18a7Qf58cCRy5xuWwQ",
     "feedUrl": "http://www.youtube.com/feeds/videos.xml?channel_id=UCBcRF18a7Qf58cCRy5xuWwQ",
     "title": "L2inc"
   }

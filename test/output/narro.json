@@ -37,6 +37,9 @@
     "language": "en",
     "copyright": "All article content copyright of respective source authors.",
     "ttl": "20",
+    "links": [
+      "http://on.narro.co/f"
+    ],
     "itunes": {
       "owner": {
         "name": "foobar",

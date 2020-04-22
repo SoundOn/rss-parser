@@ -47,6 +47,9 @@
     "link": "http://www.taverncast.com/",
     "language": "en-us",
     "copyright": "Taverncast, 2015",
+    "links": [
+      "http://www.taverncast.com/"
+    ],
     "itunes": {
       "owner": {
         "name": "Taverncast",

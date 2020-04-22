@@ -268,12 +268,7 @@
     ],
     "title": "Cancer Informer 腫瘤學新知",
     "description": "<p>確診患癌，大多數人都會感到震驚和慌亂。究竟甚麼是癌？為甚麼是我？會醫好嗎？怎樣醫？到哪裡醫？原來，當患者對癌症不認識、不了解，對前面的路無法掌握時，就會產生恐懼、焦慮和無助的情緒。部分患者要麼逃避治療，錯過治癒或控制病情的機會；要麼孤注一擲，藥石亂投，傷了荷包又傷身。</p>\n\n<p>「腫瘤學新知」旨在向公眾提供正確的癌症資訊，包括癌症治療的最新發展、國際指引和臨床試驗等，深願患者知己知彼，常懷希望; 勇對癌關，活出新生命。</p>",
-    "link": {
-      "$": {
-        "rel": "hub",
-        "href": "https://pubsubhubbub.appspot.com/"
-      }
-    },
+    "link": "https://cancerinformer.hk",
     "language": "zh_Ha",
     "copyright": "2020 MediPaper Medical Communications Ltd",
     "hub": "https://pubsubhubbub.appspot.com/",

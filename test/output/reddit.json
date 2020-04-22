@@ -310,6 +310,9 @@
     },
     "title": "reddit: the front page of the internet",
     "description": "",
-    "link": "https://www.reddit.com/"
+    "link": "https://www.reddit.com/",
+    "links": [
+      "https://www.reddit.com/"
+    ]
   }
 }

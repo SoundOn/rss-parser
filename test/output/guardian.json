@@ -4449,6 +4449,9 @@
     "pubDate": "Wed, 31 Jan 2018 20:15:15 GMT",
     "link": "https://www.theguardian.com/us",
     "language": "en-gb",
-    "copyright": "Guardian News and Media Limited or its affiliated companies. All rights reserved. 2018"
+    "copyright": "Guardian News and Media Limited or its affiliated companies. All rights reserved. 2018",
+    "links": [
+      "https://www.theguardian.com/us"
+    ]
   }
 }

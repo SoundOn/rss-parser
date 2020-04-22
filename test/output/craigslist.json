@@ -308,6 +308,9 @@
     "title": "craigslist SF bay area | apts/housing for rent search ",
     "type": "Collection",
     "description": "",
-    "link": "https://sfbay.craigslist.org/search/apa"
+    "link": "https://sfbay.craigslist.org/search/apa",
+    "links": [
+      "https://sfbay.craigslist.org/search/apa"
+    ]
   }
 }

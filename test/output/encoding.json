@@ -451,6 +451,9 @@
     "description": "JN. Rede de Informação.",
     "link": "http://www.jn.pt",
     "language": "pt-pt",
-    "lastBuildDate": "Wed, 03 Jan 2018 14:11:52 GMT\r\n      "
+    "lastBuildDate": "Wed, 03 Jan 2018 14:11:52 GMT\r\n      ",
+    "links": [
+      "http://www.jn.pt"
+    ]
   }
 }
