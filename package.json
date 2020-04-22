@@ -1,5 +1,5 @@
 {
-  "name": "rss-parser",
+  "name": "@SoundOn/rss-parser",
   "version": "3.7.6",
   "main": "index.js",
   "types": "index.d.ts",
@@ -9,6 +9,9 @@
   },
   "author": "Bobby Brennan",
   "license": "MIT",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "devDependencies": {
     "@types/xml2js": "^0.4.3",
     "babel-core": "^6.26.3",
@@ -28,10 +31,7 @@
   "directories": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bobby-brennan/rss-parser.git"
-  },
+  "repository": "git://github.com/SoundOn/rss-parser.git",
   "bugs": {
     "url": "https://github.com/bobby-brennan/rss-parser/issues"
   },
