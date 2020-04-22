@@ -6,6 +6,13 @@ declare namespace Parser {
     readonly 'User-Agent'?: string;
   }
 
+  type ChannelLink = string | {
+    $: {
+      rel: string;
+      href: string;
+    }
+  };
+
   type CustomFieldItem = string | { keepArray: boolean }
     
   export interface CustomFields {
@@ -50,6 +57,8 @@ declare namespace Parser {
       title?: string;
     },
     link?: string;
+    links?: ChannelLink[];
+    hub?: string;
     title?: string;
     items?: Item[];
     feedUrl?: string;

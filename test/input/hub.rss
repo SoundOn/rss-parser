@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<!--
+
+      ******************************************************************
+      *     This is an RSS feed. It's what makes your podcast work.    *
+      *    You can submit it to directories to get your show listed.   *
+      *              For guides on how to do this, visit               *
+      * https://help.podcast.co/submitting-your-podcast-to-directories *
+      ******************************************************************
+
+-->
+  <channel>
+    <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <itunes:type>episodic</itunes:type>
+<description><![CDATA[<p>確診患癌，大多數人都會感到震驚和慌亂。究竟甚麼是癌？為甚麼是我？會醫好嗎？怎樣醫？到哪裡醫？原來，當患者對癌症不認識、不了解，對前面的路無法掌握時，就會產生恐懼、焦慮和無助的情緒。部分患者要麼逃避治療，錯過治癒或控制病情的機會；要麼孤注一擲，藥石亂投，傷了荷包又傷身。</p>
+
+<p>「腫瘤學新知」旨在向公眾提供正確的癌症資訊，包括癌症治療的最新發展、國際指引和臨床試驗等，深願患者知己知彼，常懷希望; 勇對癌關，活出新生命。</p>]]></description>
+<itunes:subtitle></itunes:subtitle>
+<title>Cancer Informer 腫瘤學新知</title>
+
+<copyright>2020 MediPaper Medical Communications Ltd</copyright>
+<itunes:author>[&#039;mediPr]</itunes:author>
+<itunes:category text="Science">
+    <itunes:category text="Life Sciences" />
+  </itunes:category>
+<itunes:category text="Health &amp; Fitness">
+  </itunes:category>
+<itunes:category text="Health &amp; Fitness">
+    <itunes:category text="Medicine" />
+  </itunes:category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="https://images.pod.co/ETdz7Z6C0TbjH2FJ7QGozOclDhnZpk1JfpNmS7jtRGc/resize:fill:1500:1500/plain/artwork/9cfaa51e-5828-4e5a-b595-059682f1dae4/cancer-informer.jpg" />
+<itunes:owner>
+  <itunes:name>[&#039;mediPr]</itunes:name>
+  <itunes:email>admin@medi-paper.com</itunes:email>
+</itunes:owner>
+<language>zh_Ha</language>
+<link>https://cancerinformer.hk</link>
+<link>https://pod.co/cancer-informer</link>
+        <item>
+  <description>
+    <![CDATA[<p>如何診斷腦癌是原發性還是繼發性？聽聽神經外科專科黃偉基醫生的分享。</p>]]>
+  </description>
+  <itunes:title>《漫談腦癌》 第八集 - 腦癌的診斷</itunes:title>
+  <title>《漫談腦癌》 第八集 - 腦癌的診斷</title>
+
+      <enclosure length="3467389" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/32ddb07c-af2b-45f9-9c3d-0fcdb01b1f78.mp3" />
+  <itunes:duration>00:03:36</itunes:duration>
+    <guid isPermaLink="false">32ddb07c-af2b-45f9-9c3d-0fcdb01b1f78</guid>
+  <itunes:author>黃偉基醫生</itunes:author>
+    <itunes:episode>12</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/Bt5DG9o7VnIK91OgiCZzyfR12ochPBueI3Jy21Otc88/resize:fill:1500:1500/plain/artwork/0de04591-8e24-438b-b324-394474ae41eb/cancer-informer/32ddb07c-af2b-45f9-9c3d-0fcdb01b1f78.jpg" />
+    <link>https://pod.co/cancer-informer/32ddb07c-af2b-45f9-9c3d-0fcdb01b1f78</link>
+  <pubDate>Mon, 20 Apr 2020 13:57:30 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>在新型冠狀病毒肆虐的情況下，癌症患者和腫瘤科醫生有甚麼需要特別注意的地方？是次直播節目由臨床腫瘤科專科醫生陳穎樂醫生與大家分享。2020年4月8日（星期三）晚上七時，與您準時開live！</p>]]>
+  </description>
+  <itunes:title>2019新型冠狀病毒: 癌症患者與腫瘤科醫生須知</itunes:title>
+  <title>2019新型冠狀病毒: 癌症患者與腫瘤科醫生須知</title>
+
+      <enclosure length="25419441" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/99770926-4ffb-405d-9b84-e94d1e9aa37a.mp3" />
+  <itunes:duration>00:26:28</itunes:duration>
+    <guid isPermaLink="false">99770926-4ffb-405d-9b84-e94d1e9aa37a</guid>
+  <itunes:author>陳穎樂醫生</itunes:author>
+    <itunes:episode>11</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/MRNR2A7dp_-xmb-4ssRNKi4jFus_cueUv5eXk7xRp_g/resize:fill:1500:1500/plain/artwork/0e7be469-e437-4ca8-a32a-480cef742656/cancer-informer/2019.jpg" />
+    <link>https://pod.co/cancer-informer/2019</link>
+  <pubDate>Fri, 10 Apr 2020 14:48:54 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>腦部是人體的重要器官，控制著我們的記憶、思考、語言和肢體活動等功能，一旦腦部出現腫瘤並需要接受外科手術，它的功能會否受到影響？聽聽腦神經外科專科黃偉基醫生怎樣說...</p>]]>
+  </description>
+  <itunes:title>《漫談腦癌》 第七集 - 腦癌外科手術會引起後遺症嗎？ </itunes:title>
+  <title>《漫談腦癌》 第七集 - 腦癌外科手術會引起後遺症嗎？ </title>
+
+      <enclosure length="1277701" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/07653cf5-290e-4607-9b5c-920ecd832e1c.mp3" />
+  <itunes:duration>00:01:19</itunes:duration>
+    <guid isPermaLink="false">07653cf5-290e-4607-9b5c-920ecd832e1c</guid>
+  <itunes:author>黃偉基醫生</itunes:author>
+    <itunes:episode>10</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/6yCtMNnMceBN0RgUt8JD_GNd0Ltn1EGV7V5qiEJhZgY/resize:fill:1500:1500/plain/artwork/1cf9f740-aaa2-4f67-974d-e89d7dab8dce/cancer-informer/07653cf5-290e-4607-9b5c-920ecd832e1c.jpg" />
+    <link>https://pod.co/cancer-informer/07653cf5-290e-4607-9b5c-920ecd832e1c</link>
+  <pubDate>Sun, 01 Mar 2020 13:47:40 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>無論繼發性腦癌還是原發性腦癌，最大的挑戰是如何從病人身上安全地切除腫瘤，而不影響其腦部的正常功能，以及做到微創的效果。傷口越小，患者出現併發症的機會就會大大減低</p>]]>
+  </description>
+  <itunes:title>《漫談腦癌》 第六集 - 腦癌的外科手術（二）</itunes:title>
+  <title>《漫談腦癌》 第六集 - 腦癌的外科手術（二）</title>
+
+      <enclosure length="2529533" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/7f329ca7-0aef-444f-98d4-2fe7914b2f36.mp3" />
+  <itunes:duration>00:02:38</itunes:duration>
+    <guid isPermaLink="false">7f329ca7-0aef-444f-98d4-2fe7914b2f36</guid>
+  <itunes:author>黃偉基醫生</itunes:author>
+    <itunes:episode>9</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/oxlwQ6UhKrq8X3k-VAnQoICtq6UXiFrPA0yMLhimB-M/resize:fill:1500:1500/plain/artwork/a06c2746-971e-4dfc-a7af-26fea0dc5ea9/cancer-informer/7f329ca7-0aef-444f-98d4-2fe7914b2f36.jpg" />
+    <link>https://pod.co/cancer-informer/7f329ca7-0aef-444f-98d4-2fe7914b2f36</link>
+  <pubDate>Mon, 24 Feb 2020 04:01:13 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>在清醒的狀態下進行腦科手術？聽起來不可思議，但這些都是腦癌外科手術的進步。</p>]]>
+  </description>
+  <itunes:title>《漫談腦癌》 第五集 - 腦癌的外科手術（一） </itunes:title>
+  <title>《漫談腦癌》 第五集 - 腦癌的外科手術（一） </title>
+
+      <enclosure length="2477706" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/a0fbbbd0-55fc-494f-9581-1148d35c13f0.mp3" />
+  <itunes:duration>00:02:34</itunes:duration>
+    <guid isPermaLink="false">a0fbbbd0-55fc-494f-9581-1148d35c13f0</guid>
+  <itunes:author>黃偉基醫生</itunes:author>
+    <itunes:episode>8</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/NrHr22jANJajJZs6pEMWHPDIVvzoCgDJUz2sXTvWN6I/resize:fill:1500:1500/plain/artwork/2b519068-3be1-4883-bd3c-d8c0ed6af307/cancer-informer/a0fbbbd0-55fc-494f-9581-1148d35c13f0.jpg" />
+    <link>https://pod.co/cancer-informer/a0fbbbd0-55fc-494f-9581-1148d35c13f0</link>
+  <pubDate>Mon, 17 Feb 2020 06:58:33 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>由於技術上的進步，以往被認為是絕症的腦轉移，現在根治的機會已大大提升；即使不能根治，亦可將它控制成長期疾病。目前來說，腦轉移的控制率和治癒率已改善了很多。  </p>]]>
+  </description>
+  <itunes:title>《漫談腦癌》 第四集 - 繼發性腦癌</itunes:title>
+  <title>《漫談腦癌》 第四集 - 繼發性腦癌</title>
+
+      <enclosure length="2408698" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/5af0128a-8f68-44f8-aeee-a656a76e8c0b.mp3" />
+  <itunes:duration>00:02:30</itunes:duration>
+    <guid isPermaLink="false">5af0128a-8f68-44f8-aeee-a656a76e8c0b</guid>
+  <itunes:author>黃偉基醫生</itunes:author>
+    <itunes:episode>7</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/f9z2iKBuPwmneGwAe5oF-nJc8va_yCqA4OwwMoekJLs/resize:fill:1500:1500/plain/artwork/5e56ddfc-8b0e-413c-b4bd-24b17e89a96e/cancer-informer/5af0128a-8f68-44f8-aeee-a656a76e8c0b.jpg" />
+    <link>https://pod.co/cancer-informer/5af0128a-8f68-44f8-aeee-a656a76e8c0b</link>
+  <pubDate>Wed, 29 Jan 2020 06:28:29 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>最常見的星形細胞膠質瘤的特點是會植根腦部深處, 好比樹根深入泥土深處，而泥土就是我們正常的腦組織。</p>]]>
+  </description>
+  <itunes:title>《漫談腦癌》 第三集 - 腦癌的治療</itunes:title>
+  <title>《漫談腦癌》 第三集 - 腦癌的治療</title>
+
+      <enclosure length="1443213" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/97542140-0fbc-48be-9d45-01f12d0cd3af.mp3" />
+  <itunes:duration>00:01:30</itunes:duration>
+    <guid isPermaLink="false">97542140-0fbc-48be-9d45-01f12d0cd3af</guid>
+  <itunes:author>黃偉基醫生</itunes:author>
+    <itunes:episode>6</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/pv1yjuFng7_Hv2Gr3rw9wmYw_VhVYrer-pzRKO0raiQ/resize:fill:1500:1500/plain/artwork/588f2e77-723c-4873-846e-1014558edce0/cancer-informer/97542140-0fbc-48be-9d45-01f12d0cd3af.jpg" />
+    <link>https://pod.co/cancer-informer/97542140-0fbc-48be-9d45-01f12d0cd3af</link>
+  <pubDate>Mon, 20 Jan 2020 09:11:52 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>神經外科專科黃偉基醫生將在本集為大家講解腦癌的病徵，特別提醒部分病徵與發展速度與長者的急性腦退化和原發於腦部的淋巴癌很相似，大家要留意了！</p>]]>
+  </description>
+  <itunes:title>《漫談腦癌》 第二集 - 腦癌的症狀 </itunes:title>
+  <title>《漫談腦癌》 第二集 - 腦癌的症狀 </title>
+
+      <enclosure length="1774236" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/45776112-6cfc-4190-aafe-46488ef02b29.mp3" />
+  <itunes:duration>00:01:50</itunes:duration>
+    <guid isPermaLink="false">45776112-6cfc-4190-aafe-46488ef02b29</guid>
+  <itunes:author>黃偉基醫生</itunes:author>
+    <itunes:episode>5</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/sPwQSTjerpw9K8Tz3YV10P2DSCq-OwKDdRhy7oWl7bg/resize:fill:1500:1500/plain/artwork/6c5d3f32-8e2a-43fb-a8cc-5812d30dbbe5/cancer-informer/45776112-6cfc-4190-aafe-46488ef02b29.jpg" />
+    <link>https://pod.co/cancer-informer/45776112-6cfc-4190-aafe-46488ef02b29</link>
+  <pubDate>Fri, 17 Jan 2020 09:07:22 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>不少人聽見「癌症」就覺得很可怕，若是「腦癌」便更為恐慌, 因為許多韓劇和日劇的主角都死於腦癌。但現今醫學昌明，患上腦癌是否真的那麼絕望呢？一連多集, 神經外科專科黃偉基醫生與您漫談腦癌。</p>
+
+<p>第一集:</p>
+
+<p>「星形細胞」 – 多麽浪漫的名字。其實甚麼是星形細胞? 腦癌有哪些種類? 誰較容易患上?</p>]]>
+  </description>
+  <itunes:title>《漫談腦癌》 第一集 - 腦癌概說</itunes:title>
+  <title>《漫談腦癌》 第一集 - 腦癌概說</title>
+
+      <enclosure length="3555160" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/0caa4f1f-2fa9-4d71-8acb-3d714748ca43.mp3" />
+  <itunes:duration>00:03:42</itunes:duration>
+    <guid isPermaLink="false">0caa4f1f-2fa9-4d71-8acb-3d714748ca43</guid>
+  <itunes:author>黃偉基醫生</itunes:author>
+    <itunes:episode>4</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/HXHLSyuo4YcBlFLuK4DRt_s20dPWfrsf7-m1ITQoJaM/resize:fill:1500:1500/plain/artwork/cd42c19d-2e1d-4aad-9fa1-097d02f74b69/cancer-informer/0caa4f1f-2fa9-4d71-8acb-3d714748ca43.jpg" />
+    <link>https://pod.co/cancer-informer/0caa4f1f-2fa9-4d71-8acb-3d714748ca43</link>
+  <pubDate>Mon, 13 Jan 2020 09:04:13 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>本身患有類風濕性關節炎的陳先生(化名)在大約兩年前因血尿求醫，經檢查後才驚覺患上前列腺癌，並已出現骨轉移。</p>
+
+<p>原來，他早已出現骨痛的情況，卻誤以為是類風濕性關節炎所引起的骨痛，因而忽略了前列腺癌骨轉移的警號。</p>]]>
+  </description>
+  <itunes:title>癌症骨轉移 及早用藥保生活質素</itunes:title>
+  <title>癌症骨轉移 及早用藥保生活質素</title>
+
+      <enclosure length="4816979" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/1662ee9c-7d21-4efd-b04a-52117543c33c.mp3" />
+  <itunes:duration>00:05:01</itunes:duration>
+    <guid isPermaLink="false">1662ee9c-7d21-4efd-b04a-52117543c33c</guid>
+  <itunes:author>梁廣泉醫生</itunes:author>
+    <itunes:episode>3</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/892mH5Bl4s1otyeVTcvC03_xOXwJry9ADJ1L8VXakZo/resize:fill:1500:1500/plain/artwork/2b3ed960-2380-4306-b2ff-3e36fdb064c9/cancer-informer/1662ee9c-7d21-4efd-b04a-52117543c33c.jpg" />
+    <link>https://pod.co/cancer-informer/1662ee9c-7d21-4efd-b04a-52117543c33c</link>
+  <pubDate>Fri, 10 Jan 2020 09:01:12 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>「現年八十多歲的張伯（化名）是一名退休醫生。大約一年前，他因為腰背痛而求醫，本以為只是年紀大骨骼退化的問題，萬料不到竟是前列腺癌，並且已經出現骨轉移，病情屬第四期。」</p>]]>
+  </description>
+  <itunes:title>前列腺癌骨轉移－張伯的故事</itunes:title>
+  <title>前列腺癌骨轉移－張伯的故事</title>
+
+      <enclosure length="4301217" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/0df4bbfd-3e14-4f53-a7b2-2b5aee0486f8.mp3" />
+  <itunes:duration>00:04:28</itunes:duration>
+    <guid isPermaLink="false">0df4bbfd-3e14-4f53-a7b2-2b5aee0486f8</guid>
+  <itunes:author>施俊健醫生</itunes:author>
+    <itunes:episode>2</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/INT1KO98iKiBY1oRfabIiNwBHP8lGqGb5VVjAq0c6EA/resize:fill:1500:1500/plain/artwork/5f3b5636-086d-4635-a591-f674b3b57fcc/cancer-informer/0df4bbfd-3e14-4f53-a7b2-2b5aee0486f8.jpg" />
+    <link>https://pod.co/cancer-informer/0df4bbfd-3e14-4f53-a7b2-2b5aee0486f8</link>
+  <pubDate>Mon, 06 Jan 2020 08:37:23 +0000</pubDate>
+</item>
+        <item>
+  <description>
+    <![CDATA[<p>「骨轉移是指骨骼受到癌細胞侵蝕而變得脆弱，患者會感到骨痛，甚至容易發生骨折。倘脊髓神經受到腫瘤壓迫，患者四肢的活動能力也會受到影響。當這些骨骼相關徵狀一旦出現，儘管仍有辦法處理，但完全復原的機會便相對低了。」</p>]]>
+  </description>
+  <itunes:title>前列腺癌骨痛響警號</itunes:title>
+  <title>前列腺癌骨痛響警號</title>
+
+      <enclosure length="6419435" type="audio/mpeg" url="https://downloads.pod.co/30f8764d-c1b4-484d-abd0-00494aef6275/8b0011a5-d073-430c-a4fb-e8466a70f5c6.mp3" />
+  <itunes:duration>00:06:41</itunes:duration>
+    <guid isPermaLink="false">8b0011a5-d073-430c-a4fb-e8466a70f5c6</guid>
+  <itunes:author>鄺維基醫生</itunes:author>
+    <itunes:episode>1</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://images.pod.co/IbnByVKVgJo3j2f84b2eEjPSUXOgdMbXDnk8fzLieC4/resize:fill:1500:1500/plain/artwork/d95b7f73-a13f-40f0-b796-c341f1b45eb6/cancer-informer/8b0011a5-d073-430c-a4fb-e8466a70f5c6.jpg" />
+    <link>https://pod.co/cancer-informer/8b0011a5-d073-430c-a4fb-e8466a70f5c6</link>
+  <pubDate>Wed, 01 Jan 2020 08:14:35 +0000</pubDate>
+</item>
+      </channel>
+</rss>
