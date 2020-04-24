@@ -272,4 +272,8 @@ describe('Parser', function() {
   it('should parse websub link', function(done) {
     testParseForFile('hub', 'rss', done);
   });
+
+  it('should ignore empty tag', function(done) {
+    testParseForFile('missing-cover', 'rss', done);
+  });
 })
